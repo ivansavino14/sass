@@ -1,0 +1,22 @@
+.parrafo {
+    color: white;
+    font-size: medium;
+    font-style: italic;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    &_titulo  {
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    position: center;   
+ }
+}
+.nos {
+    text-align: center;
+    padding-top: 50px ;
+} 

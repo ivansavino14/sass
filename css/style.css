@@ -1,0 +1,67 @@
+.card :hover {
+  transform: translateY(-20px); }
+
+.parrafo {
+  color: white;
+  font-size: medium;
+  font-style: italic;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none; }
+  .parrafo_titulo {
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    position: center; }
+
+.nos {
+  text-align: center;
+  padding-top: 50px; }
+
+.formulario {
+  text-align: center;
+  padding-top: 50px; }
+  .formulario_titulo {
+    text-align: center;
+    text-decoration: underline;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    padding: 15px; }
+
+.provincia {
+  color: white; }
+
+.promo {
+  margin: 0 auto; }
+  .promopromo_titulo {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline; }
+
+.promo10 {
+  color: white;
+  text-align: center; }
+
+.promono {
+  color: white;
+  font-size: smaller;
+  text-align: center; }
+
+.promos {
+  text-align: center;
+  padding-top: 50px;
+  padding: 25px; }
+
+.promoss {
+  text-align: center;
+  padding: 25px; }
+
+.listabca {
+  color: white; }
