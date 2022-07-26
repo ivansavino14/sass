@@ -28,19 +28,3 @@
 .listabca {
     @include promo10()
 }
-$redesociales: (
-    twitter: #55acee,
-    githud:#1d1d1d,
-    instagram: #c92d8f, 
-);
-@each $nombre, $color in $redessociales {
-    .link-#{$nombre} {
-        margin: 0px 5px;
-        padding: 10px;
-        border-radius: 10px;
-        color:white;
-        text-decoration: none;
-        background-color: $color;
-    }
-    
-}
